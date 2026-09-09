@@ -1,0 +1,5 @@
+print(f"Obliczanie trapezu")
+a = float(input("a = "))
+b = float(input("b = "))
+h = float(input("h = "))
+print(f"Pole trapezu dla a = {a} b = {b} = {(a+b)*h/2}")
